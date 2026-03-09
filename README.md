@@ -1,2 +1,2 @@
 # zaynab-nachabe.github.io
-![Snake animation](https://YOURUSERNAME.github.io/snake-purple.svg)
+![Snake animation](https://zaynab-nachabe.github.io/snake-purple.svg)
